@@ -1,5 +1,7 @@
 # exo 2 bis
 
+# fixes realease 
+
 # Spring PetClinic Sample Application
 
 [![Build Status](https://travis-ci.org/spring-petclinic/spring-framework-petclinic.svg?branch=master)](https://travis-ci.org/spring-petclinic/spring-framework-petclinic/) 
